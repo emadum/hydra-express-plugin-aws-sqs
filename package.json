@@ -1,0 +1,13 @@
+{
+  "name": "hydra-express-plugin-aws-sqs",
+  "version": "0.0.1",
+  "description": "HydraExpressPlugin for AWS Simple Queue Service",
+  "main": "index.js",
+  "author": "Eric Adum <eric@flywheelsports.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.181.0",
+    "hydra-express-plugin": "0.0.1",
+    "sqs-consumer": "^3.8.0"
+  }
+}
